@@ -13,3 +13,7 @@ class Solution:
                     firstPointer += 1
                     secondPointer += 1
             return False
+
+
+    # time: nlogn, space 1
+    # better solution, use hashset while adding value
